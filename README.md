@@ -50,3 +50,7 @@ La compilación hace tres cosas:
 - Los datos son © colaboradores de OpenStreetMap (ODbL). El panel muestra la atribución de cada estilo.
 - Los servidores de teselas de openstreetmap.org son para uso moderado y piden permiso para apps distribuidas con uso intensivo. Para uso personal no hay problema; antes de publicar el mod en Paradox Mods conviene usar otro estilo por defecto o un servidor propio.
 - Nominatim admite como máximo una petición por segundo y no permite autocompletar; por eso las sugerencias usan Photon (komoot), con una pausa de 350 ms al escribir.
+
+## Licencia
+
+El código está bajo la licencia [MIT](LICENSE). Los datos de los mapas no forman parte del código y tienen sus propias condiciones (ver arriba).
