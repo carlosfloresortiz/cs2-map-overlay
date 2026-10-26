@@ -1,0 +1,22 @@
+# Build output (.NET / CS2 toolchain)
+**/bin/
+**/obj/
+**/Library/
+.tmpui/
+
+# UI (webpack)
+node_modules/
+UI/build/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Logs / OS
+*.log
+Thumbs.db
+desktop.ini
+.DS_Store
